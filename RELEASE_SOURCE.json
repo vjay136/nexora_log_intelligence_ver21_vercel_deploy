@@ -1,7 +1,7 @@
 {
-  "release": "21.0.0-6",
-  "tag": "v21.0.0-6",
+  "release": "21.0.0-7",
+  "tag": "v21.0.0-7",
   "source_repository": "https://github.com/vjay136/nexora_log_intelligence_ver21",
-  "source_revision": "905ce45bca9d54d2fd8fcf4505ba21e3e274a611",
-  "baseline": "v21.0.0-5"
+  "source_revision": "951f6c8f804236adfb8bafc18c9a80c621815ef6",
+  "baseline": "v21.0.0-6"
 }
